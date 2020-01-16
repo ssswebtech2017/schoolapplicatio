@@ -5275,3 +5275,14 @@ ul {
     width: 100%;
   }
 }
+.custom-carousel{
+  .carousel-item{
+    margin-bottom: 20px;
+    img{
+        height: 400px;
+    }
+  }
+  .carousel-indicators{
+    bottom: 30px;
+  }
+}
